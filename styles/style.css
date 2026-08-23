@@ -187,10 +187,7 @@ header{
 .img-icon{
     display: flex;
     align-items: center;
-    gap: 5px;
-    text-align: ;
-   
-    
+    gap: 5px;  
 }
 .img-icon img{
     border-radius:50%;
